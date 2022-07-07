@@ -96,6 +96,10 @@ img {
     object-position: 55% 100%;
 }
 
+.alpha img#genie {
+    object-position: 11% 100%;
+}
+
 
 #contact {
     display: flex;
